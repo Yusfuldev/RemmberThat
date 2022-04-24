@@ -524,4 +524,7 @@ nav.menu {
     border-radius: 1.5em;
     color: white;
   }
+  .contact{
+    display: flex;
+  }
 }
